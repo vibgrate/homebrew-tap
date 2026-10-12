@@ -3,8 +3,8 @@
 class Vg < Formula
   desc "Deterministic, no-API-key code graph for AI assistants (vg)"
   homepage "https://vibgrate.com"
-  url "https://registry.npmjs.org/@vibgrate/cli/-/cli-2026.1007.1.tgz"
-  sha256 "d6e8a22671f445c32e9aead400cfe806c3549838ee1307c773faa8b34df621ba"
+  url "https://registry.npmjs.org/@vibgrate/cli/-/cli-2026.1012.1.tgz"
+  sha256 "fbcc1174366e7357df3effede673be921c59e3000c03e126de037176c3643845"
   license "Apache-2.0"
   depends_on "node"
 
